@@ -4,7 +4,7 @@
   "description": "Basic concepts of Electron",
   "main": "index.js",
   "scripts": {
-
+    "start": "electron index.js"
   },
   "keywords": [
     "javascript",
