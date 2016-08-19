@@ -1,3 +1,3 @@
 # Electron Basics
 
-The basic concepts of Electron.io
+The basic concepts of [Electron](http://electron.atom.io/)
